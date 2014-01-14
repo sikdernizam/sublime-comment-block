@@ -1,3 +1,3 @@
 sublime-comment-block
 =====================
-This snippet will help you to create stylish comment divider.
+This snippet will help you to create stylish comment divider on Sublime Text.
