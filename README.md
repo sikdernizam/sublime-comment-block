@@ -9,7 +9,7 @@ This snippet will help you to create stylish comment divider block on Sublime Te
          */ 
          
 
-How To Use?
+<h1>How To Use?</h1>
 1. Go to Preference->Package Control:Add Repository.
 2. Paste the link.
 3. Go to Preference->Package Control:Install Package
